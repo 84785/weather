@@ -1,0 +1,1 @@
+print "Tuesday's Weather: something"
